@@ -10,7 +10,7 @@
         "index.js"
     ],
     "scripts": {
-        "test": "ava"
+        "test": "ava --verbose"
     },
     "dependencies": {
         "babel-eslint": "^8.2.5",

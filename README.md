@@ -1,7 +1,7 @@
 # eslint-config
 
 [![Build Status](https://secure.travis-ci.org/chocolateboy/eslint-config.svg)](https://travis-ci.org/chocolateboy/eslint-config)
-[![NPM Version](https://img.shields.io/npm/v/@chocolateboy/eslint-config.svg)](https://www.npmjs.org/package/@chocolateboy/eslint-config)
+[![NPM Version](https://img.shields.io/npm/v/@chocolateboy/eslint-config.svg)](https://www.npmjs.com/package/@chocolateboy/eslint-config)
 
 My [shareable](https://eslint.org/docs/developer-guide/shareable-configs) [ESLint](https://eslint.org/) config.
 
@@ -26,7 +26,7 @@ My [shareable](https://eslint.org/docs/developer-guide/shareable-configs) [ESLin
 
 # USAGE
 
-Add this to your .eslintrc.js (or equivalent) file:
+Add this to your `.eslintrc.js` (or equivalent) file:
 
 ```js
 module.exports = {
