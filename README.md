@@ -57,7 +57,7 @@ The following NPM scripts are available:
 # SEE ALSO
 
 * [eslint](https://www.npmjs.com/package/eslint) - An AST-based pattern checker for JavaScript
-* [eslint-standard](https://www.npmjs.com/package/eslint-config-standard) - An ESLint Shareable Config for JavaScript Standard Style
+* [eslint-standard](https://www.npmjs.com/package/eslint-config-standard) - An ESLint shareable config for JavaScript Standard Style
 * [standard](https://www.npmjs.com/package/standard) - JavaScript Style Guide, with linter & automatic code fixer
 
 # VERSION
