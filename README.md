@@ -1,12 +1,11 @@
 # eslint-config
 
-[![Build Status](https://secure.travis-ci.org/chocolateboy/eslint-config.svg)](https://travis-ci.org/chocolateboy/eslint-config)
+[![Build Status](https://travis-ci.org/chocolateboy/eslint-config.svg)](https://travis-ci.org/chocolateboy/eslint-config)
 [![NPM Version](https://img.shields.io/npm/v/@chocolateboy/eslint-config.svg)](https://www.npmjs.com/package/@chocolateboy/eslint-config)
 
 My [shareable](https://eslint.org/docs/developer-guide/shareable-configs) [ESLint](https://eslint.org/) config.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- toc -->
 
 - [INSTALL](#install)
 - [USAGE](#usage)
@@ -18,7 +17,7 @@ My [shareable](https://eslint.org/docs/developer-guide/shareable-configs) [ESLin
 - [AUTHOR](#author)
 - [COPYRIGHT AND LICENSE](#copyright-and-license)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- tocstop -->
 
 # INSTALL
 
@@ -36,7 +35,9 @@ module.exports = {
 
 # DESCRIPTION
 
-This is mostly compatible with the [StandardJS rules](https://standardjs.com/#standardjs--the-rules). The main differences are:
+This is mostly compatible with the
+[StandardJS rules](https://standardjs.com/#standardjs--the-rules).
+The main differences are:
 
 - 4 spaces (rather than 2)
 - dangling commas are allowed in multi-line lists
@@ -70,7 +71,7 @@ The following NPM scripts are available:
 
 # COPYRIGHT AND LICENSE
 
-Copyright © 2018 by chocolateboy.
+Copyright © 2018-2020 by chocolateboy.
 
 This is free software; you can redistribute it and/or modify it under the
 terms of the [Artistic License 2.0](https://www.opensource.org/licenses/artistic-license-2.0.php).
